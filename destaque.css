@@ -1,0 +1,11 @@
+/* Estilo para o destaque */
+#destaque {
+  background-color: #f2f2f2;
+  padding: 50px;
+  text-align: center;
+}
+.produto img {
+  width: 200px;
+  height: auto;
+  margin-bottom: 10px;
+}

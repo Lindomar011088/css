@@ -1,0 +1,19 @@
+/* Estilo para a seção de produtos */
+#produtos {
+  padding: 50px;
+}
+.produto {
+  display: inline-block;
+  width: 300px;
+  padding: 20px;
+  margin: 10px;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+.produto h3 {
+  margin-top: 0;
+}
+.preco {
+  font-weight: bold;
+  color: #ff5500;
+}
